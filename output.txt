@@ -1,0 +1,68 @@
+🚀 CVEGage starting full stack scan for: kubernetes, docker, terraform, aws, gcp, azure, mongodb, ssl, tls, mtls...
+
+🔴 CVE-2026-22771 (KUBERNETES) | Score: 8.8
+   Tech Impact: KUBERNETES
+   Summary: Envoy Gateway is an open source project for managing Envoy Proxy as a standalone or Kubernetes-based...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-22771
+
+🔴 CVE-2025-11224 (KUBERNETES) | Score: 7.7
+   Tech Impact: KUBERNETES
+   Summary: GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.10 before 18.3.6, 18.4...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2025-11224
+
+🔴 CVE-2026-23520 (DOCKER) | Score: 9.0
+   Tech Impact: DOCKER
+   Summary: Arcane provides modern docker management. Prior to 1.13.0, Arcane has a command injection in the upd...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-23520
+
+🔴 CVE-2026-21224 (AZURE) | Score: 7.8
+   Tech Impact: AZURE
+   Summary: Stack-based buffer overflow in Azure Connected Machine Agent allows an authorized attacker to elevat...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-21224
+
+🔴 CVE-2026-21226 (AZURE) | Score: 7.5
+   Tech Impact: AZURE
+   Summary: Deserialization of untrusted data in Azure Core shared client library for Python allows an authorize...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-21226
+
+🟡 CVE-2026-0529 (MONGODB) | Score: 6.5
+   Tech Impact: MONGODB
+   Summary: Improper Validation of Array Index (CWE-129) in Packetbeat’s MongoDB protocol parser can allow an at...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-0529
+
+🟡 CVE-2026-22250 (SSL) | Score: 2.5
+   Tech Impact: SSL
+   Summary: wlc is a Weblate command-line client using Weblate's REST API. Prior to 1.17.0, the SSL verification...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-22250
+
+🔴 CVE-2026-21917 (SSL) | Score: 7.5
+   Tech Impact: SSL
+   Summary: An Improper Validation of Syntactic Correctness of Input vulnerability in the Web-Filtering module o...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-21917
+
+🔴 CVE-2025-71063 (TLS) | Score: 8.2
+   Tech Impact: TLS
+   Summary: Errands before 46.2.10 does not verify TLS certificates for CalDAV servers....
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2025-71063
+
+🔴 CVE-2026-22771 (TLS) | Score: 8.8
+   Tech Impact: TLS
+   Summary: Envoy Gateway is an open source project for managing Envoy Proxy as a standalone or Kubernetes-based...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-22771
+
+🟡 CVE-2025-68775 (TLS) | Score: N/A
+   Tech Impact: TLS
+   Summary: In the Linux kernel, the following vulnerability has been resolved:
+
+net/handshake: duplicate handsh...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2025-68775
+
+🟡 CVE-2026-22045 (TLS) | Score: 5.9
+   Tech Impact: TLS
+   Summary: Traefik is an HTTP reverse proxy and load balancer. Prior to 2.11.35 and 3.6.7, there is a potential...
+   🔗 Detail: https://nvd.nist.gov/vuln/detail/CVE-2026-22045
+
+--------------------------------------------------------------------------------
+🔥 CVEGage FINAL SUMMARY: CISA MUST-FIX LIST
+--------------------------------------------------------------------------------
+✅ No actively exploited vulnerabilities found in your stack today.
