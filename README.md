@@ -75,6 +75,12 @@ Remediation Due: 2026-02-15
 
   *  Report: Categorizes hits by severity and provides a "Must-Fix" list based on active exploitation status.
 
+  * Can be used as kubernetes cronjob or integration with slack for better notification
+
 ## 🛡️ Why use this?
 
 #### In a typical week, hundreds of CVEs are published. For an SRE team, checking every single one is impossible. CVEGage applies the 80/20 rule: 80% of your risk comes from the 20% of bugs that are actually being exploited. This tool ensures those high-risk bugs are never missed.
+
+## 🚀 Future Work
+
+### Create kubernetes cronjob or integration with slack/PD for better notification.
