@@ -39,7 +39,7 @@ Run the watcher to pull the latest 5-day delta:
 Bash
 
 ```
-python cve_gage.py
+python cvegage.py
 ```
 
 ## 📊 Sample Output
